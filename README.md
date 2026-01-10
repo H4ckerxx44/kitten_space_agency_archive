@@ -4,7 +4,7 @@
 
 We got permissions as long as we don't use this archive to decompile or alter those setups.
 This is *purely* to archive all possible versions of KSA for the future.
-![[images/rocket_permission.png]]
+![Rocket (CEO) gave us permission to setup this repository.](/images/rocket_permission.png)
 
 
 | Version | Build | Build date | comment            | File                                                                              |
