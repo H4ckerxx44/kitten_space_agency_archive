@@ -2,6 +2,11 @@
 ## [Kitten Space Agency](https://ahwoo.com/store/KPbAA1Au/kitten-space-agency) archive
 
 
+We got permissions as long as we don't use this archive to decompile or alter those setups.
+This is *purely* to archive all possible versions of KSA for the future.
+![[images/rocket_permission.png]]
+
+
 | Version | Build | Build date | comment            | File                                                                              |
 | ------- | ----- | ---------- | ------------------ | --------------------------------------------------------------------------------- |
 | 1       | 2088  | 2025-08-18 |                    |                                                                                   |
