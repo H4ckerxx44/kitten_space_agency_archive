@@ -3,6 +3,9 @@
 
 If you have one of the versions that are currently missing, feel free to create a torrent and open a PR!
 
+If for whatever reason any of the torrents are not available anymore, open up an issue and specify which torrent is not available, I will do the best to seed them.
+I will never delete the setups from my computer or my server.
+
 
 ### Purpose
 
