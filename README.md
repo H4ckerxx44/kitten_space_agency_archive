@@ -128,12 +128,12 @@ This is *purely* to archive all possible versions of KSA for the future.
 | 102     | 3549  | 2026-02-16 |                    | [3549](torrents/3549.torrent) |             |
 | 103     | 3563  | 2026-02-17 |                    | [3563](torrents/3563.torrent) |             |
 | 104     | 3592  | 2026-02-18 |                    | [3592](torrents/3293.torrent) |             |
-| 105     | 3622  | 2026-02-19 |                    | [3622](versions/3622.torrent) | yes         |
-| 106     | 3638  | 2026-02-20 |                    | [3638](versions/3622.torrent) | yes         |
-| 107     | 3640  | 2026-02-20 |                    | [3640](versions/3622.torrent) | yes         |
-| 108     | 3646  | 2026-02-21 |                    | [3646](versions/3622.torrent) | yes         |
-| 109     | 3656  | 2026-02-23 |                    | [3656](versions/3622.torrent) | yes         |
-| 110     | 3667  | 2026-02-24 |                    | [3667](versions/3622.torrent) | yes         |
-| 111     | 3695  | 2026-02-26 |                    | [3695](versions/3622.torrent) | yes         |
-| 112     | 3699  | 2026-02-26 |                    | [3699](versions/3622.torrent) | yes         |
-| 113     | 3713  | 2026-02-27 |                    | [3713](versions/3622.torrent) | yes         |
+| 105     | 3622  | 2026-02-19 |                    | [3622](torrents/3622.torrent) | yes         |
+| 106     | 3638  | 2026-02-20 |                    | [3638](torrents/3638.torrent) | yes         |
+| 107     | 3640  | 2026-02-20 |                    | [3640](torrents/3640.torrent) | yes         |
+| 108     | 3646  | 2026-02-21 |                    | [3646](torrents/3646.torrent) | yes         |
+| 109     | 3656  | 2026-02-23 |                    | [3656](torrents/3656.torrent) | yes         |
+| 110     | 3667  | 2026-02-24 |                    | [3667](torrents/3667.torrent) | yes         |
+| 111     | 3695  | 2026-02-26 |                    | [3695](torrents/3695.torrent) | yes         |
+| 112     | 3699  | 2026-02-26 |                    | [3699](torrents/3699.torrent) | yes         |
+| 113     | 3713  | 2026-02-27 |                    | [3713](torrents/3713.torrent) | yes         |
