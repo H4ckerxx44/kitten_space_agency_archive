@@ -74,7 +74,7 @@ This is *purely* to archive all possible versions of KSA for the future.
 | 48      | 2634  | 2025-11-03 |                    | [2634](torrents/2634.torrent) |             |
 | 49      | 2742  | 2025-11-12 |                    | [2742](torrents/2742.torrent) |             |
 | 50      | 2781  | 2025-11-13 |                    | [2781](torrents/2781.torrent) |             |
-| 51      | 2789  | 2025-11-14 |                    | [2789](torrents/2789.torrent) |             |
+| 51      | 2789  | 2025-11-14 |                    |                               |             |
 | 52      | 2791  | 2025-11-14 | first public build | [2791](torrents/2791.torrent) |             |
 | 53      | 2819  | 2025-11-17 |                    | [2819](torrents/2819.torrent) |             |
 | 54      | 2829  | 2025-11-19 |                    | [2829](torrents/2829.torrent) |             |
@@ -86,7 +86,7 @@ This is *purely* to archive all possible versions of KSA for the future.
 | 60      | 2924  | 2025-11-26 |                    | [2924](torrents/2924.torrent) |             |
 | 61      | 2939  | 2025-11-27 |                    | [2939](torrents/2939.torrent) |             |
 | 62      | 2945  | 2025-11-28 |                    | [2945](torrents/2945.torrent) |             |
-| 63      | 2971  | 2025-12-02 |                    | [2971](torrents/2971.torrent) |             |
+| 63      | 2971  | 2025-12-02 |                    |                               |             |
 | 64      | 2976  | 2025-12-02 |                    | [2976](torrents/2976.torrent) |             |
 | 65      | 2991  | 2025-12-03 |                    | [2991](torrents/2991.torrent) |             |
 | 66      | 2994  | 2025-12-03 |                    | [2994](torrents/2994.torrent) |             |
