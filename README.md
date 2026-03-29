@@ -142,3 +142,6 @@ This is *purely* to archive all possible versions of KSA for the future.
 | 116     | 3775  | 2026-03-09 |                    | [3775](torrents/3775.torrent) | yes         |
 | 117     | 3818  | 2026-03-14 |                    | [3818](torrents/3818.torrent) | yes         |
 | 118     | 3848  | 2026-03-18 |                    | [3848](torrents/3848.torrent) | yes         |
+| 119     | 3883  | 2026-03-24 |                    | [3883](torrents/3883.torrent) | yes         |
+| 120     | 3904  | 2026-03-27 |                    | [3904](torrents/3904.torrent) | yes         |
+| 121     | 3916  | 2026-03-28 |                    | [3916](torrents/3916.torrent) | yes         |
