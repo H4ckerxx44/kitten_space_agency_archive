@@ -1,3 +1,6 @@
+# Note: Seeding is currently paused due to qbittorrent messing up my home server network capabilities (no idea why)
+# I am still actively monitoring all KSA versions and archive all that I can possibly get. No data is lost.
+
 
 ## [Kitten Space Agency](https://ahwoo.com/store/KPbAA1Au/kitten-space-agency) archive
 
