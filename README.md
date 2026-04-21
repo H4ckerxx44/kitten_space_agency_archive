@@ -147,4 +147,14 @@ This is *purely* to archive all possible versions of KSA for the future.
 | 118     | 3848  | 2026-03-18 |                    | [3848](torrents/3848.torrent) | yes         |
 | 119     | 3883  | 2026-03-24 |                    | [3883](torrents/3883.torrent) | yes         |
 | 120     | 3904  | 2026-03-27 |                    | [3904](torrents/3904.torrent) | yes         |
-| 121     | 3916  | 2026-03-28 |                    | [3916](torrents/3916.torrent) | yes         |
+| 122     | 3916  | 2026-03-28 |                    | [3916](torrents/3916.torrent) | yes         |
+| 123     | 3942  | 2026-04-01 |                    | [3942](torrents/3942.torrent) | yes         |
+| 124     | 3957  | 2026-04-03 |                    | [3957](torrents/3957.torrent) | yes         |
+| 125     | 3969  | 2026-04-05 |                    | [3969](torrents/3969.torrent) | yes         |
+| 126     | 3999  | 2026-04-07 |                    | [3999](torrents/3999.torrent) | yes         |
+| 127     | 4036  | 2026-04-09 |                    | [4036](torrents/4036.torrent) | yes         |
+| 128     | 4057  | 2026-04-10 |                    | [4057](torrents/4057.torrent) | yes         |
+| 129     | 4082  | 2026-04-14 |                    | [4082](torrents/4082.torrent) | yes         |
+| 130     | 4100  | 2026-04-15 |                    | [4100](torrents/4100.torrent) | yes         |
+| 131     | 4141  | 2026-04-17 |                    | [4141](torrents/4141.torrent) | yes         |
+| 132     | 4170  | 2026-04-21 |                    | [4170](torrents/4170.torrent) | yes         |
