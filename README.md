@@ -1,3 +1,11 @@
+# ARCHIVED
+
+### Head to https://ksa-archive.net/ / https://github.com/H4ckerxx44/ksa-archive-net for the new archive
+
+---
+---
+---
+
 ## [Kitten Space Agency](https://ahwoo.com/store/KPbAA1Au/kitten-space-agency) archive
 
 If you have one of the versions that are currently missing, feel free to create a torrent and open a PR!
